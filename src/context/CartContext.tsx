@@ -1,6 +1,5 @@
 import { ReactNode, createContext, useState } from 'react';
 import { CartType } from '../components/cart/CartType';
-import { ProductType } from '../components/product/ProductType';
 import { PRODUCTS } from '../store/Product';
 
 interface CartContextProps {
