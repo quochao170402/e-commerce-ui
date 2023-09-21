@@ -1,4 +1,4 @@
-import { ItemType } from '../item/ItemType';
+import { ItemType } from "../item/ItemType";
 
 export interface CartType {
   items: ItemType[];

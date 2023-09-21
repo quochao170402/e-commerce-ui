@@ -1,4 +1,4 @@
-import { PRODUCTS } from '../../store/Product';
+import { PRODUCTS } from '../../store/Products';
 import Product from '../product/Product';
 
 const Products = () => {

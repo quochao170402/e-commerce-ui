@@ -1,6 +1,6 @@
 import { ReactNode, createContext, useState } from 'react';
 import { CartType } from '../components/cart/CartType';
-import { PRODUCTS } from '../store/Product';
+import { PRODUCTS } from '../store/Products';
 
 interface CartContextProps {
   children: ReactNode;

@@ -1,7 +1,7 @@
-import { ProductType } from './ProductType';
 import './Product.css';
 import { useContext } from 'react';
 import { CartContext } from '../../context/CartContext';
+import { ProductType } from './ProductType';
 
 interface ProductProps {
   product: ProductType;
